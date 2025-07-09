@@ -1,6 +1,7 @@
 # Binance Futures CLI Trading Bot
 
-📽️ **[Watch CLI Demo Video Here](https://drive.google.com/file/d/1HELatqjWMpEPoDeArqUW1GWXgmpxkd76/view?usp=sharing)**  
+📽️ **[![Watch the demo](https://github.com/Darkside099/TarunMawri_Binance_Bot/blob/89193cac483f6f499135ea54e952aeca92ff2915/thumbnail.png)](https://drive.google.com/file/d/1alv1NBMey-a5SLETow2jv56AgVpCkBDT/view?usp=drive_link)
+**  
 *(Replace the above link with your actual uploaded video link)*
 
 A Command-Line Interface (CLI) trading bot for Binance Futures Testnet.  
