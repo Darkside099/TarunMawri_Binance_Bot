@@ -1,6 +1,6 @@
 # Binance Futures CLI Trading Bot
 ## Demo Vedio
-📽️ [![Watch the demo](https://github.com/Darkside099/TarunMawri_Binance_Bot/blob/89193cac483f6f499135ea54e952aeca92ff2915/thumbnail.png)](https://drive.google.com/file/d/1alv1NBMey-a5SLETow2jv56AgVpCkBDT/view?usp=drive_link)
+[![Watch the demo](https://github.com/Darkside099/TarunMawri_Binance_Bot/blob/89193cac483f6f499135ea54e952aeca92ff2915/thumbnail.png)](https://drive.google.com/file/d/1alv1NBMey-a5SLETow2jv56AgVpCkBDT/view?usp=drive_link)
 
 A Command-Line Interface (CLI) trading bot for Binance Futures Testnet.  
 This tool allows users to place various types of crypto orders directly from the terminal using Python — including Market, Limit, Stop-Market, OCO (One Cancels the Other), TWAP (Time Weighted Average Price), and Grid Strategy orders.
