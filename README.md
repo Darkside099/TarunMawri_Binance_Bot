@@ -7,13 +7,6 @@ This tool allows users to place various types of crypto orders directly from the
 
 ---
 
-## Developer Information
-
-**Name:** Tarun Mawri  
-**Email:** tarunmawri2005@gmail.com
-
----
-
 ## Objective
 
 This project provides an interactive shell to perform futures trading on the Binance Testnet using simple commands. It is ideal for developers and traders looking to automate and experiment with trading strategies in a safe sandbox environment.
